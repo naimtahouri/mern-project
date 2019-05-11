@@ -33,6 +33,7 @@ Il vous faudras :
 - Ajout de la fonctionnalité " Filtrer par... " pour la liste d'utilisateurs
 - J'exporterais la base de données
 - J'utiliserais Docker pour l'application 
+- J'ajouterais le prénom et le nom de la personne après s'être connecté et à la redirection de l'inscription
 - Formulaire d'inscription gérer avec des conditions optimale et des regExp
 - Réglage du format Date qui compte -1 jour
 - Ajouts de Upload photo pour le profil 
