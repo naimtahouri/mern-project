@@ -74,3 +74,14 @@ body {
   min-width:400px;
   /* height:200px; */
 }
+
+.tel{
+  width:30px;
+  margin-right:10px;
+  margin-top:-3px;
+}
+
+.calendar{
+  width:30px;
+  margin-right:10px;
+}

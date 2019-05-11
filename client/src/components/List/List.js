@@ -34,14 +34,18 @@ class List extends React.Component {
             <div>
             <div>
             <Navigation></Navigation>
-            <h1>Liste d'utilisateurs</h1>
+            <h1 style={{
+                fontWeight: 'bold',
+                fontSize: '45px',
+                marginBottom: '20px',
+            }}>Liste d'utilisateurs</h1>
             </div>
             <div style={{
                 display: 'flex'
             }}>
-            {this.state.users.map((user) => {
+            {this.state.users.map((user,index) => {
                 return(
-                    <Card hello={user}/>
+                    <Card key={index} hello={user}/>
                 )
             })}
             </div>

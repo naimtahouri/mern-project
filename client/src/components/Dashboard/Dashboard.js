@@ -46,8 +46,11 @@ export class Dashboard extends React.Component {
         
         return(
             <div className="Dashboard">
-            <h1>Dashboard</h1>
-                {this.state.user.hasOwnProperty('firstName') ? <h1>Bonjour {this.state.user.firstName} !</h1> : null } 
+                {this.state.user.hasOwnProperty('firstName') ? 
+                <h1 style={{
+                    fontSize:'45px',
+                    fontWeight:'bold'
+                }}>Bonjour {this.state.user.firstName} !</h1> : null } 
                 <Navigation></Navigation>
                 <Router>
                     <Switch>

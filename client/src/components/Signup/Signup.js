@@ -111,13 +111,13 @@ export class Signup extends React.Component {
         if(this.state.password === 0) {
             return;
         }
-        if(this.state.cpassword != this.state.password) {
+        if(this.state.cpassword !== this.state.password) {
             return;
         }
         if(this.state.password < 6) {
             return;
         }
-        if(this.state.status != this.state.statusdefine) {
+        if(this.state.status !== this.state.statusdefine) {
             return;
         }
         var _send = {
