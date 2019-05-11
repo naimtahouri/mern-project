@@ -22,7 +22,9 @@ Il vous faudras :
 - Nodejs 
 - MongoDb
 - PostMan 
+- Connaître les bases de ExpressJS
 - Connaître les bases de ReactJS
+
 
 ### Projet en construction 
 
