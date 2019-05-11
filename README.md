@@ -37,6 +37,7 @@ Il vous faudras :
 - Formulaire d'inscription gérer avec des conditions optimale et des regExp
 - Réglage du format Date qui compte -1 jour
 - Ajouts de Upload photo pour le profil 
+- J'ajouterais un composant pour reset le Password
 - Rendre le projet en Native 
 - J'ajouterais un style plus fluide avec les flexbox ainsi que bootstrap 
 
