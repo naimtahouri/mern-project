@@ -28,6 +28,17 @@ Il vous faudras :
 
 ## Le projet est encore en construction 
 
+## À venir : 
+
+- Ajout de la fonctionnalité " Filtrer par... " pour la liste d'utilisateurs
+- J'exporterais la base de données
+- J'utiliserais Docker pour l'application 
+- Formulaire d'inscription gérer avec des conditions optimale et des regExp
+- Réglage du format Date qui compte -1 jour
+- Ajouts de Upload photo pour le profil 
+- Rendre le projet en Native 
+- J'ajouterais un style plus fluide avec les flexbox ainsi que bootstrap 
+
 ## Aperçu visuel du projet 
 
 ![gif-of-project](https://github.com/naimtahouri/gif-project/blob/master/ezgif.com-video-to-gif.gif?raw=true)
