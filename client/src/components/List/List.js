@@ -47,7 +47,7 @@ class List extends React.Component {
             }}>
             {this.state.users.map((user,index) => {
                 return(
-                    <Card key={index} hello={user}/>
+                    <Card key={index} user={user}/>
                 )
             })}
             </div>
