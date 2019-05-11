@@ -1,0 +1,76 @@
+* {
+  font-family: 'Hind Madurai', serif;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+body {
+  background-color: black;
+  background-image: url(../src/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+  font-weight: 100;
+  margin: 0;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.App-link {
+  color: #61dafb;
+}
+
+.Login {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.big {
+  transition: all 0.3s;
+}
+
+.big:hover {
+  transform: scale(1.1);
+  opacity: 0.5;
+}
+
+.flex{
+  display: flex;
+  min-height:100vh;
+  width:100%;
+  justify-content: center;
+}
+
+.box-card{
+  background:rgb(54, 54, 54);
+  min-width:400px;
+  /* height:200px; */
+}
