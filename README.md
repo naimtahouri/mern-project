@@ -16,6 +16,14 @@ Vous avez maintenant accès à votre dashboard. Sur le coté vous avez plusieurs
 - Listes d'utilisateurs (Qui listeras les informations des utilisateurs dans votre base de données mongo sous forme de Card)
 - Se deconnecter (Button qui renvoi à la section Login)
 
+## Realiser le projet
+
+Il vous faudras : 
+- Nodejs 
+- MongoDb
+- PostMan 
+- Connaître les bases de ReactJS
+
 ### Projet en construction 
 
 ![gif-of-project](https://github.com/naimtahouri/gif-project/blob/master/ezgif.com-video-to-gif.gif?raw=true)
