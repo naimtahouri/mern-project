@@ -26,6 +26,8 @@ Il vous faudras :
 - Connaître les bases de ReactJS
 
 
-### Projet en construction 
+## Le projet est encore en construction 
+
+## Aperçu visuel du projet 
 
 ![gif-of-project](https://github.com/naimtahouri/gif-project/blob/master/ezgif.com-video-to-gif.gif?raw=true)
