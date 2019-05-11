@@ -8,6 +8,8 @@ class Card extends React.Component {
             <div style={{
                 backgroundColor: 'grey',
                 width: '300px',
+                borderRadius: '10%',
+                margin: '5px'
                 
             }}>
                 <h1 style={{

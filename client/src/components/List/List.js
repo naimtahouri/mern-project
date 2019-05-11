@@ -28,7 +28,7 @@ class List extends React.Component {
 
     render() {
         // console.log('after fetch', this.state.users);
-        console.log('userssort', this.state.usersSort);
+        // console.log('userssort', this.state.usersSort);
         
         return(
             <div>
@@ -41,7 +41,9 @@ class List extends React.Component {
             }}>Liste d'utilisateurs</h1>
             </div>
             <div style={{
-                display: 'flex'
+                display: 'flex',
+                flexWrap: 'wrap',
+                justifyContent: 'space-around'
             }}>
             {this.state.users.map((user,index) => {
                 return(

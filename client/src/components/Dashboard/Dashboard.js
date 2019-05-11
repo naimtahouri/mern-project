@@ -50,7 +50,9 @@ export class Dashboard extends React.Component {
                 <h1 style={{
                     fontSize:'45px',
                     fontWeight:'bold'
-                }}>Bonjour {this.state.user.firstName} !</h1> : null } 
+                }}>Bonjour <em style={{
+                    textTransform: 'capitalize'
+                }}>{this.state.user.firstName}</em> !</h1> : null } 
                 <Navigation></Navigation>
                 <Router>
                     <Switch>

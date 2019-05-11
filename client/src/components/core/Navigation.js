@@ -74,6 +74,9 @@ showDashboard = event => {
           height:
           this.state.isClicked ?
           '300px' : '55px',
+          backgroundColor :
+          this.state.isClicked ?
+          'black' : 'rgba(0,0,0,0)'
       }}>
 
         <OpenNav>
