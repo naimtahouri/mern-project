@@ -1,7 +1,7 @@
+# MONGODB / EXPRESS / REACT / NODEJS
+
 # 📚mern-project
 Projet MERN // Impliquant une interface pour s'inscrire, se connecter afin d'accéder á son Dashboard respectif.
-
-## MongoDb / Express / React / Node 
 
 ## 📍 Mettez-vous à la raçine du dossier et faite NPM I, ensuite allez dans le dossier client et faire la même chose :)
 Il y'a en effet trois terminaux à lancer, celui de Mongo avec "Mongod", celui de node avec "NPM START" || "NODEMON SERVER.js"
